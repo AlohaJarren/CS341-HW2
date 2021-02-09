@@ -23,6 +23,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: #fff;
+    width: 35%;
 } 
 
 .jarProf {
@@ -186,4 +187,8 @@ display: block;
 
 #orderButton {
     margin-left: 13em;
+}
+
+#thankYouMessage {
+    text-align: center;
 }
